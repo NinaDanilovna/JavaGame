@@ -1,2 +1,14 @@
-Здесь и начнём писать. Устанавливай eclipse марс и погнали, нужно создать окно и научиться грузить картинки.
-мамку ебал ^^
+import javax.swing.JFrame;
+
+	public class Main 
+	{
+	
+			
+	public static void main(String[] args) //типа войд майн
+	{
+		window frame = new window();
+		frame.setVisible(true);
+	}
+
+	}
+
